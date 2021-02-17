@@ -5,8 +5,8 @@
 .. |AppVeyor| image:: https://ci.appveyor.com/api/projects/status/ga1y28ottvmvgif6/branch/master?svg=true
    :target: https://ci.appveyor.com/project/pierremoreau/cg-labs/branch/master
 
-# Original ReadMe for the project in High Performance Computer Graphics at LTH
-
+Original ReadMe for the project in High Performance Computer Graphics at LTH
+============
 
 CG_Labs contains the source code for the various Computer Graphics courses
 taught at `Lund University`_ (EDAF80_ and EDAN35_). All assignments of EDAF80
